@@ -24,3 +24,4 @@ target/
 .scala_dependencies
 .worksheet
 *.tsv
+run-spark-cluster.sh
